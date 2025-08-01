@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/1200x200/243C8C/FFFFFF/png?text=Bem-vindo+à+Sisqualis" alt="Banner de Boas-Vindas da Sisqualis" width="100%">
+  <img src="img/BannerGitHub.png" alt="Banner de Boas-Vindas da Sisqualis" width="100%">
 </div>
 
 <div align="center">
