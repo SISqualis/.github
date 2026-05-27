@@ -1,66 +1,125 @@
 <div align="center">
-  <img src="img/BannerGitHub.png" alt="Banner de Boas-Vindas da Sisqualis" width="100%">
-</div>
-
-<div align="center">
-  <h3>🚀 Tecnologia para impulsionar o crescimento, a inovação e a transformação na saúde 🚀</h3>
+  <img src="img/1778619308608.jpeg" alt="Sisqualis" width="100%">
+  
+  <br><br>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Healthcare_Technology-243C8C?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="Healthcare Technology">
+    <img src="https://img.shields.io/badge/Data_Interoperability-00A3E0?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Interoperability">
+    <img src="https://img.shields.io/badge/LGPD_Compliant-2E7D32?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="LGPD Compliant">
+    <img src="https://img.shields.io/badge/Mission_Critical-C62828?style=for-the-badge&logo=statuspage&logoColor=white" alt="Mission Critical">
+  </p>
+  
+  <h3>Tecnologia que transforma a gestão da saúde</h3>
+  
+  <p><i>Soluções de interoperabilidade e barramento de dados para o ecossistema de saúde brasileiro</i></p>
 </div>
 
 ---
 
-## 🏢 Sobre Nós
+## <img src="https://img.shields.io/badge/-243C8C?style=flat-square&logo=buffer&logoColor=white" height="24"> A Sisqualis
 
-**A Sisqualis** nasceu com o propósito de elevar o nível da gestão de informações e processos por meio de soluções tecnológicas avançadas. Combinamos a energia de uma start-up com a maturidade de quem entende a complexidade de projetos de missão crítica.
+A **Sisqualis** desenvolve soluções tecnológicas avançadas para a gestão de informações e processos no setor de saúde. Unimos a agilidade de uma startup à maturidade necessária para conduzir projetos de missão crítica, entregando sistemas robustos, seguros e escaláveis.
 
-🏛️ **Localização:** Com sede no **Tecnopuc**, um dos maiores polos de tecnologia e inovação do Brasil
+> Somos parte da vanguarda brasileira em interoperabilidade de dados na saúde, atuando na linha de frente dos desafios enfrentados pelas equipes de TI do setor.
 
-🎯 **Foco:** Desempenho e escalabilidade, entregando sistemas que:
-- ✅ Facilitam fluxos de trabalho
-- ✅ Aumentam a produtividade 
-- ✅ Garantem a segurança das informações
+### Nossos pilares
 
-🇧🇷 **Posicionamento:** Fazemos parte da vanguarda brasileira em soluções de barramento e interoperabilidade de dados, atendendo os principais desafios das equipes de TI de saúde e normas de proteção e privacidade, incluindo a **LGPD**.
+| | Pilar | Compromisso |
+|:---:|---|---|
+| <img src="https://img.shields.io/badge/-243C8C?style=flat-square&logo=googlemaps&logoColor=white" height="22"> | **Sede** | Tecnopuc — um dos maiores polos de tecnologia e inovação do Brasil |
+| <img src="https://img.shields.io/badge/-243C8C?style=flat-square&logo=target&logoColor=white" height="22"> | **Foco** | Desempenho, escalabilidade e segurança em sistemas de missão crítica |
+| <img src="https://img.shields.io/badge/-243C8C?style=flat-square&logo=letsencrypt&logoColor=white" height="22"> | **Conformidade** | Aderência integral à LGPD e às normas de proteção de dados sensíveis |
+| <img src="https://img.shields.io/badge/-243C8C?style=flat-square&logo=openbadges&logoColor=white" height="22"> | **Atuação** | Vanguarda nacional em barramento e interoperabilidade de dados em saúde |
+
+### O que entregamos
+
+- **Otimização de fluxos de trabalho** — processos clínicos e administrativos mais fluidos
+- **Ganhos de produtividade** — automação inteligente e integração entre sistemas
+- **Segurança da informação** — proteção de dados sensíveis em conformidade regulatória
+- **Escalabilidade comprovada** — arquitetura preparada para crescer com o seu negócio
 
 ---
 
-## 📚 O que você encontrará aqui?
+## <img src="https://img.shields.io/badge/-243C8C?style=flat-square&logo=readthedocs&logoColor=white" height="24"> Recursos e Documentação
 
-Este espaço é dedicado a compartilhar recursos e documentações sobre nossas soluções. Nosso objetivo é fornecer acesso rápido e claro às informações que você precisa.
+Este repositório centraliza a documentação técnica e os recursos de apoio das soluções Sisqualis. Nosso objetivo é oferecer acesso direto, claro e organizado às informações que você precisa.
 
-### 📘 Manuais e Documentação do Fusion
+### Documentação Fusion
 
 <div align="center">
   <a href="https://docs-fusion.sisqualis.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/📖_Documentação-Fusion-243C8C?style=for-the-badge&logo=gitbook&logoColor=white" alt="Documentação Fusion">
+    <img src="https://img.shields.io/badge/Acessar_Documentação-Fusion-243C8C?style=for-the-badge&logo=gitbook&logoColor=white" alt="Documentação Fusion">
   </a>
 </div>
 
-Acesse nossa documentação técnica completa e guias de uso através do nosso portal de documentos.
+Portal oficial com a documentação técnica completa, guias de uso e referências de API da plataforma Fusion.
 
-**🔗 Link:** [docs-fusion.sisqualis.com.br](https://docs-fusion.sisqualis.com.br)
+> **Portal:** [docs-fusion.sisqualis.com.br](https://docs-fusion.sisqualis.com.br)
 
-### 🔒 Repositório de Manuais Fusion (Privado)
+---
+
+### Manuais Fusion — Repositório Privado
 
 <div align="center">
   <a href="https://github.com/SISqualis/manuais-fusion" target="_blank">
-    <img src="https://img.shields.io/badge/🔐_Repositório-Privado-red?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Privado">
+    <img src="https://img.shields.io/badge/Repositório-Privado-C62828?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Privado">
   </a>
 </div>
 
-Este repositório contém manuais detalhados e materiais de apoio. O acesso é restrito para garantir a segurança das informações.
+Acervo restrito com manuais detalhados, materiais de apoio e documentação interna. O acesso controlado garante a integridade e a confidencialidade das informações estratégicas.
 
-**🔗 Link:** [github.com/SISqualis/manuais-fusion](https://github.com/SISqualis/manuais-fusion)
+> **Repositório:** [github.com/SISqualis/manuais-fusion](https://github.com/SISqualis/manuais-fusion)
 
-**⚠️ Controle de Acesso:** O acesso a este repositório é concedido apenas a usuários autorizados. Se você precisa de acesso, certifique-se de que recebeu um e-mail de convite para colaborar.
+#### Política de acesso
+
+| | |
+|---|---|
+| **Modelo** | Acesso restrito a colaboradores e parceiros autorizados |
+| **Solicitação** | Mediante convite oficial enviado por e-mail |
+| **Verificação** | Confirme o recebimento do convite antes de tentar acessar |
+
+---
+
+## <img src="https://img.shields.io/badge/-243C8C?style=flat-square&logo=blueprint&logoColor=white" height="24"> Sobre nossas soluções
+
+<table>
+  <tr>
+    <td align="center" width="33%" bgcolor="#243C8C">
+      <img src="https://img.shields.io/badge/-243C8C?style=for-the-badge&logo=redhatopenshift&logoColor=white" height="50"><br><br>
+      <b>Saúde Digital</b><br>
+      <sub>Soluções dedicadas ao setor de saúde</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/-243C8C?style=for-the-badge&logo=apacheairflow&logoColor=white" height="50"><br><br>
+      <b>Interoperabilidade</b><br>
+      <sub>Barramento de dados e integração de sistemas</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/-243C8C?style=for-the-badge&logo=letsencrypt&logoColor=white" height="50"><br><br>
+      <b>LGPD Compliance</b><br>
+      <sub>Proteção e privacidade de dados sensíveis</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <h3>💡 Estamos aqui para construir com você a próxima geração de soluções tecnológicas 💡</h3>
+  
+  ### Vamos construir juntos a próxima geração de soluções para a saúde
+
+  <br>
   
   <p>
-    <img src="https://img.shields.io/badge/🏥_Saúde-Digital-00D4AA?style=flat-square" alt="Saúde Digital">
-    <img src="https://img.shields.io/badge/🔒_LGPD-Compliance-243C8C?style=flat-square" alt="LGPD Compliance">
-    <img src="https://img.shields.io/badge/🚀_Inovação-Tecnológica-FF6B6B?style=flat-square" alt="Inovação">
+    <a href="https://docs-fusion.sisqualis.com.br">
+      <img src="https://img.shields.io/badge/Documentação-243C8C?style=flat-square&logo=gitbook&logoColor=white">
+    </a>
+    <a href="https://github.com/SISqualis">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    </a>
   </p>
+  
+  <sub>© Sisqualis — Tecnologia para a saúde</sub>
+  
 </div>
